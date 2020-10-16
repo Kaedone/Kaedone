@@ -12,7 +12,7 @@
     ✨ Gaming
     ✨ Watching Anime
     ✨ Reading Light Novels
-    ✨ Badminton (Neighbourhood Professional XD)
+    ✨ Basketball (Neighbourhood Professional XD)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kaedone&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
