@@ -1,18 +1,18 @@
 ### Hi🌱:
 
-  - I'm 16 years old BackEnd & Artificial Intelligence programmer.
-    - Learning :
-    ✨ Data Science
-    ✨ Generative Adversarial Networks
-    ✨ Neural Style Transfer
-    ✨ C/C++
-    ✨ Haskel
-    ✨ How to eat cockies faster than all
-  - Hobbies :
-    ✨ Gaming
-    ✨ Watching Anime
-    ✨ Reading Light Novels
-    ✨ Basketball (Neighbourhood Professional XD)
+  - I'm 16 years old BackEnd & Artificial Intelligence programmer.</br>
+    - Learning :</br>
+    ✨ Data Science</br>
+    ✨ Generative Adversarial Networks</br>
+    ✨ Neural Style Transfer</br>
+    ✨ C/C++</br>
+    ✨ Haskel</br>
+    ✨ How to eat cockies faster than all</br>
+  - Hobbies :</br>
+    ✨ Gaming</br>
+    ✨ Watching Anime</br>
+    ✨ Reading Light Novels</br>
+    ✨ Basketball (Neighbourhood Professional XD)</br>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kaedone&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
