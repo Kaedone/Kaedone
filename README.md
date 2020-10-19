@@ -8,11 +8,11 @@
     ✨ C/C++</br>
     ✨ Haskel</br>
     ✨ How to eat cockies faster than all</br>
-  - Hobbies :</br>
-    ✨ Gaming</br>
-    ✨ Watching Anime</br>
-    ✨ Reading Light Novels</br>
-    ✨ Basketball (Neighbourhood Professional XD)</br>
+   - Hobbies :</br>
+      ✨ Gaming</br>
+      ✨ Watching Anime</br>
+      ✨ Reading Light Novels</br>
+      ✨ Basketball (Neighbourhood Professional XD)</br>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kaedone&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
