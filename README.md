@@ -1,18 +1,18 @@
 ### Hi🌱:
 
-  - I'm 17 years old BackEnd & Artificial Intelligence programmer.</br>
+  - I'm 18 years old BackEnd programmer & Security Engenier/</br>
     - Learning :</br>
     ✨ Data Science</br>
     ✨ Generative Adversarial Networks</br>
     ✨ Neural Style Transfer</br>
     ✨ C/C++</br>
-    ✨ Haskel</br>
+    ✨ Assembler</br>
     ✨ How to eat cockies faster than all</br>
    - Hobbies :</br>
       ✨ Gaming</br>
       ✨ Watching Anime</br>
-      ✨ Reading Light Novels</br>
-      ✨ Basketball (Neighbourhood Professional XD)</br>
+      ✨ Reading!!!/br>
+      ✨ Formula 1 </br>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kaedone&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
