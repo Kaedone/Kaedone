@@ -11,7 +11,7 @@
    - Hobbies :</br>
       ✨ Gaming</br>
       ✨ Watching Anime</br>
-      ✨ Reading!!!/br>
+      ✨ Reading!!!</br>
       ✨ Formula 1 </br>
 
 
