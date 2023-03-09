@@ -1,13 +1,13 @@
 ### Hi🌱:
 
-  - I'm 18 years old BackEnd programmer & Security Engenier/</br>
+  - I'm 19 years old BackEnd programmer & Security engineer/</br>
     - Learning :</br>
     ✨ Data Science</br>
     ✨ Generative Adversarial Networks</br>
     ✨ Neural Style Transfer</br>
     ✨ C/C++</br>
     ✨ Assembler</br>
-    ✨ How to eat cockies faster than all</br>
+    ✨ How to eat cookies faster than all</br>
    - Hobbies :</br>
       ✨ Gaming</br>
       ✨ Watching Anime</br>
