@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 ### Hi🌱:
 
   - I'm 19 years old BackEnd programmer & Security engineer/</br>
@@ -16,7 +17,8 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kaedone&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media1.tenor.com/images/cfaf476b5b2c8d74c72cea8103d3b5ff/tenor.gif">
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
@@ -51,16 +53,16 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:timstab1@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </br>
 </br>
 </a>
-<a href="https://vk.com/stabul">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+<a href="https://t.me/Kaedone">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://steamcommunity.com/id/timstab1/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
  </p>
  
